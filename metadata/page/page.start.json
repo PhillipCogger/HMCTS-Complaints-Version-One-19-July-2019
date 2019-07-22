@@ -11,7 +11,10 @@
     "page.organisation-address",
     "page.court-tribunal",
     "page.issue-details",
-    "page.evidence"
+    "page.evidence",
+    "page.contact-preferences",
+    "page.email",
+    "page.phone"
   ],
   "url": "/"
 }
