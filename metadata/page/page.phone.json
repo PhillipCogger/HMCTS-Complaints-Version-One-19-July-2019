@@ -12,8 +12,7 @@
     }
   ],
   "show": {
-    "conditionsType": "exactly",
-    "exactly": [
+    "any": [
       {
         "identifier": "auto_name__24",
         "operator": "is",
@@ -24,7 +23,8 @@
         "operator": "is",
         "value": "auto_value__1"
       }
-    ]
+    ],
+    "conditionsType": "any"
   },
   "url": "phone"
 }
