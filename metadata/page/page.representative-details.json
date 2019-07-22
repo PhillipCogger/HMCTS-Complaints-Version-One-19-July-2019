@@ -1,0 +1,31 @@
+{
+  "_id": "page.representative-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.representative-details--text.auto_name__8",
+      "_type": "text",
+      "label": "### Your full name",
+      "name": "auto_name__8"
+    },
+    {
+      "_id": "page.representative-details--text.auto_name__9",
+      "_type": "text",
+      "label": "### Job title",
+      "name": "auto_name__9"
+    },
+    {
+      "_id": "page.representative-details--text.auto_name__10",
+      "_type": "text",
+      "label": "### Organisation",
+      "name": "auto_name__10"
+    }
+  ],
+  "heading": "Your details",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "representative-details"
+}

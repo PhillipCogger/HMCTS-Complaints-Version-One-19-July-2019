@@ -6,7 +6,9 @@
   "steps": [
     "page.person-making-the-complaint",
     "page.complainant-full-name",
-    "page.complainant-address"
+    "page.complainant-address",
+    "page.representative-details",
+    "page.organisation-address"
   ],
   "url": "/"
 }
