@@ -1,0 +1,6 @@
+{
+  "_id": "page.issue-details",
+  "_type": "page.form",
+  "heading": "What was the issue?",
+  "url": "issue-details"
+}

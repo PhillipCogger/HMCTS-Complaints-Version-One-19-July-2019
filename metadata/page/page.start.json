@@ -10,7 +10,8 @@
     "page.representative-details",
     "page.organisation-address",
     "page.court-tribunal",
-    "page.issue-date"
+    "page.issue-date",
+    "page.issue-details"
   ],
   "url": "/"
 }
