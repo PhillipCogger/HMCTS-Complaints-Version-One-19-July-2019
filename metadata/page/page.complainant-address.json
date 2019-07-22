@@ -1,0 +1,39 @@
+{
+  "_id": "page.complainant-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.complainant-address--text.auto_name__3",
+      "_type": "text",
+      "label": "### Building and street",
+      "name": "auto_name__3"
+    },
+    {
+      "_id": "page.complainant-address--text.auto_name__4",
+      "_type": "text",
+      "name": "auto_name__4"
+    },
+    {
+      "_id": "page.complainant-address--text.auto_name__5",
+      "_type": "text",
+      "label": "### Town or city",
+      "name": "auto_name__5",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.complainant-address--text.auto_name__6",
+      "_type": "text",
+      "label": "### County",
+      "name": "auto_name__6",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.complainant-address--text.auto_name__7",
+      "_type": "text",
+      "label": "### Postcode",
+      "name": "auto_name__7"
+    }
+  ],
+  "heading": "What's your home address?",
+  "url": "complainant-address"
+}
