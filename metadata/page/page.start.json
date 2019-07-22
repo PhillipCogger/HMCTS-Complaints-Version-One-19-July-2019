@@ -8,7 +8,9 @@
     "page.complainant-full-name",
     "page.complainant-address",
     "page.representative-details",
-    "page.organisation-address"
+    "page.organisation-address",
+    "page.court-tribunal",
+    "page.complaint-details"
   ],
   "url": "/"
 }
