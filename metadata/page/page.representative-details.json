@@ -19,6 +19,21 @@
       "_type": "text",
       "label": "Organisation",
       "name": "auto_name__10"
+    },
+    {
+      "_id": "page.representative-details--text.auto_name__22",
+      "_type": "text",
+      "label": "Relationship to customer",
+      "name": "auto_name__22"
+    },
+    {
+      "_id": "page.representative-details--text.auto_name__23",
+      "_type": "text",
+      "label": "Client reference",
+      "name": "auto_name__23",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "Your details",
