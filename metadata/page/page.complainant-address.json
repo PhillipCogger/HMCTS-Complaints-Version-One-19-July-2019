@@ -5,7 +5,7 @@
     {
       "_id": "page.complainant-address--text.auto_name__3",
       "_type": "text",
-      "label": "### Building and street",
+      "label": "Building and street",
       "name": "auto_name__3",
       "widthClassInput": "30"
     },
@@ -21,24 +21,24 @@
     {
       "_id": "page.complainant-address--text.auto_name__5",
       "_type": "text",
-      "label": "### Town or city",
+      "label": "Town or city",
       "name": "auto_name__5",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.complainant-address--text.auto_name__6",
       "_type": "text",
-      "label": "### County (optional)",
+      "label": "County",
       "name": "auto_name__6",
       "validation": {
-        "required": true
+        "required": false
       },
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.complainant-address--text.auto_name__7",
       "_type": "text",
-      "label": "### Postcode",
+      "label": "Postcode",
       "name": "auto_name__7",
       "widthClassInput": "10"
     }

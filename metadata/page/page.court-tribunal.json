@@ -5,14 +5,17 @@
     {
       "_id": "page.court-tribunal--text.auto_name__16",
       "_type": "text",
-      "label": "### Court or tribunal name",
+      "label": "Court or tribunal name",
       "name": "auto_name__16"
     },
     {
       "_id": "page.court-tribunal--text.auto_name__17",
       "_type": "text",
-      "label": "### Case number",
-      "name": "auto_name__17"
+      "label": "Case number",
+      "name": "auto_name__17",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "What court or tribunal are you making your complaint about?",

@@ -5,7 +5,7 @@
     {
       "_id": "page.organisation-address--text.auto_name__11",
       "_type": "text",
-      "label": "### Building and street",
+      "label": "Building and street",
       "name": "auto_name__11",
       "widthClassInput": "30"
     },
@@ -21,21 +21,24 @@
     {
       "_id": "page.organisation-address--text.auto_name__13",
       "_type": "text",
-      "label": "### Town or city",
+      "label": "Town or city",
       "name": "auto_name__13",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.organisation-address--text.auto_name__14",
       "_type": "text",
-      "label": "### County (optional)",
+      "label": "County",
       "name": "auto_name__14",
+      "validation": {
+        "required": false
+      },
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.organisation-address--text.auto_name__15",
       "_type": "text",
-      "label": "### Postcode",
+      "label": "Postcode",
       "name": "auto_name__15",
       "widthClassInput": "10"
     }

@@ -1,0 +1,12 @@
+{
+  "_id": "page.evidence",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.evidence--fieldset",
+      "_type": "fieldset",
+      "legend": "Upload any evidence you have to support your complaint"
+    }
+  ],
+  "url": "evidence"
+}

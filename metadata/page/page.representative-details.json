@@ -5,19 +5,19 @@
     {
       "_id": "page.representative-details--text.auto_name__8",
       "_type": "text",
-      "label": "### Your full name",
+      "label": "Your full name",
       "name": "auto_name__8"
     },
     {
       "_id": "page.representative-details--text.auto_name__9",
       "_type": "text",
-      "label": "### Job title",
+      "label": "Job title",
       "name": "auto_name__9"
     },
     {
       "_id": "page.representative-details--text.auto_name__10",
       "_type": "text",
-      "label": "### Organisation",
+      "label": "Organisation",
       "name": "auto_name__10"
     }
   ],
