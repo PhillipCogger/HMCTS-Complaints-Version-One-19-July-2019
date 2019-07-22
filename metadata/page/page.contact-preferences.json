@@ -8,21 +8,21 @@
       "hint": "Select one option",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.contact-preferences--radios.auto_name__24--radio.auto_value__1",
           "_type": "radio",
           "label": "Email",
           "value": "auto_value__1"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.contact-preferences--radios.auto_name__24--radio.auto_value__1--2",
           "_type": "radio",
           "label": "Phone",
-          "value": "auto_value__1"
-        },
-        {
-          "_id": "page.contact-preferences--radios.auto_name__24--radio.auto_value__1--3",
-          "_type": "radio",
-          "label": "Text message",
           "value": "auto_value__1"
         }
       ],

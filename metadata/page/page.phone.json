@@ -12,19 +12,14 @@
     }
   ],
   "show": {
-    "any": [
-      {
-        "identifier": "auto_name__24",
-        "operator": "is",
-        "value": "auto_value__1"
-      },
-      {
-        "identifier": "auto_name__24",
-        "operator": "is",
-        "value": "auto_value__1"
-      }
-    ],
-    "conditionsType": "any"
+    "0": {
+      "identifier": "auto_name__24",
+      "operator": "is",
+      "value": "auto_value__1"
+    },
+    "identifier": "auto_name__24",
+    "operator": "is",
+    "value": "auto_value__1"
   },
   "url": "phone"
 }
