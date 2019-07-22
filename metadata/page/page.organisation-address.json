@@ -1,6 +1,42 @@
 {
   "_id": "page.organisation-address",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.organisation-address--text.auto_name__11",
+      "_type": "text",
+      "label": "### Building and street",
+      "name": "auto_name__11",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.organisation-address--text.auto_name__12",
+      "_type": "text",
+      "name": "auto_name__12",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.organisation-address--text.auto_name__13",
+      "_type": "text",
+      "label": "### Town or city",
+      "name": "auto_name__13",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.organisation-address--text.auto_name__14",
+      "_type": "text",
+      "label": "### County",
+      "name": "auto_name__14",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.organisation-address--text.auto_name__15",
+      "_type": "text",
+      "label": "### Postcode",
+      "name": "auto_name__15",
+      "widthClassInput": "10"
+    }
+  ],
   "heading": "What's the address of your organisation?",
   "show": {
     "identifier": "auto_name__1",

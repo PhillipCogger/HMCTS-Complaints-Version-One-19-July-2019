@@ -6,12 +6,14 @@
       "_id": "page.complainant-address--text.auto_name__3",
       "_type": "text",
       "label": "### Building and street",
-      "name": "auto_name__3"
+      "name": "auto_name__3",
+      "widthClassInput": "30"
     },
     {
       "_id": "page.complainant-address--text.auto_name__4",
       "_type": "text",
-      "name": "auto_name__4"
+      "name": "auto_name__4",
+      "widthClassInput": "30"
     },
     {
       "_id": "page.complainant-address--text.auto_name__5",
@@ -31,7 +33,8 @@
       "_id": "page.complainant-address--text.auto_name__7",
       "_type": "text",
       "label": "### Postcode",
-      "name": "auto_name__7"
+      "name": "auto_name__7",
+      "widthClassInput": "10"
     }
   ],
   "heading": "What's your home address?",
