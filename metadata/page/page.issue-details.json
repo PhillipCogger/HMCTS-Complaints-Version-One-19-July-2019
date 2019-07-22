@@ -1,6 +1,28 @@
 {
   "_id": "page.issue-details",
   "_type": "page.form",
-  "heading": "What was the issue?",
-  "url": "issue-details"
+  "components": [
+    {
+      "_id": "page.issue-details--date.auto_name__18",
+      "_type": "date",
+      "hint": "For example, 27 3 2018",
+      "label": "### When the issue happened",
+      "name": "auto_name__18"
+    },
+    {
+      "_id": "page.issue-details--textarea.auto_name__19",
+      "_type": "textarea",
+      "label": "### Type of issue",
+      "name": "auto_name__19"
+    },
+    {
+      "_id": "page.issue-details--textarea.auto_name__20",
+      "_type": "textarea",
+      "label": "### How can we resolve it?",
+      "name": "auto_name__20"
+    }
+  ],
+  "heading": "Your complaint",
+  "lede": "Provide as much information about the issue as you can",
+  "url": "complaint-details"
 }
