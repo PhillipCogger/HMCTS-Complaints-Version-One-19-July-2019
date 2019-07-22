@@ -14,7 +14,8 @@
     "page.evidence",
     "page.contact-preferences",
     "page.email",
-    "page.phone"
+    "page.phone",
+    "page.check-answers"
   ],
   "url": "/"
 }
