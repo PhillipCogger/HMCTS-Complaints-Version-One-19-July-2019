@@ -1,0 +1,7 @@
+{
+  "_id": "page.complaint-sent",
+  "_type": "page.confirmation",
+  "body": "## Check the progress of your complaint\r\nWe try to respond to all complaints within 10 working days. To see the progress of your complaint, contact the relevant court and quote case reference number 123456.",
+  "heading": "Your complaint has been submitted successfully",
+  "url": "complaint-sent"
+}

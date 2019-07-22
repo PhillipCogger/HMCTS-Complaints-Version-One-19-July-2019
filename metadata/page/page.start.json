@@ -15,7 +15,8 @@
     "page.contact-preferences",
     "page.email",
     "page.phone",
-    "page.check-answers"
+    "page.check-answers",
+    "page.complaint-sent"
   ],
   "url": "/"
 }
