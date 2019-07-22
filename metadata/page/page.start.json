@@ -9,8 +9,7 @@
     "page.complainant-address",
     "page.representative-details",
     "page.organisation-address",
-    "page.court-tribunal",
-    "page.complaint-details"
+    "page.court-tribunal"
   ],
   "url": "/"
 }
