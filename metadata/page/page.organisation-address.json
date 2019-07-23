@@ -6,13 +6,13 @@
       "_id": "page.organisation-address--text.auto_name__11",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__11",
+      "name": "representative_company_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.organisation-address--text.auto_name__12",
       "_type": "text",
-      "name": "auto_name__12",
+      "name": "representative_company_address_street",
       "validation": {
         "required": false
       },
@@ -22,14 +22,14 @@
       "_id": "page.organisation-address--text.auto_name__13",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__13",
+      "name": "representative_company_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.organisation-address--text.auto_name__14",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__14",
+      "name": "representative_company_address_county",
       "validation": {
         "required": false
       },
@@ -39,15 +39,15 @@
       "_id": "page.organisation-address--text.auto_name__15",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__15",
+      "name": "representative_company_address_postcode",
       "widthClassInput": "10"
     }
   ],
   "heading": "What's the address of your organisation?",
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "person_making_complaint",
     "operator": "is",
-    "value": "auto_value__2"
+    "value": "person_making_complaint_on_behalf_of_complainant"
   },
   "url": "organisation-address"
 }

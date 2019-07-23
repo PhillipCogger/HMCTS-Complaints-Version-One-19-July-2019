@@ -24,7 +24,7 @@
               "_type": "fileupload",
               "hint": "You can upload supporting documents like an appeal or complaint letter as scanned copies or photos of the originals",
               "label": "### File",
-              "name": "auto_name__21",
+              "name": "complaint_evidence",
               "validation": {
                 "required": false
               }

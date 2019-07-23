@@ -7,19 +7,19 @@
       "_type": "number",
       "hint": "We'll only use this to contact you about your complaint",
       "label": "Your phone number",
-      "name": "auto_name__26",
+      "name": "your_phone_number",
       "widthClassInput": "20"
     }
   ],
   "show": {
     "0": {
-      "identifier": "auto_name__24",
+      "identifier": "contact_preferences",
       "operator": "is",
-      "value": "auto_value__1"
+      "value": "contact_preferences_email"
     },
-    "identifier": "auto_name__24",
+    "identifier": "contact_preferences",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "contact_preferences_email"
   },
   "url": "phone"
 }

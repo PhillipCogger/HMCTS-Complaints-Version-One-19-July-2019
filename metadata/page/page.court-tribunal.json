@@ -6,13 +6,13 @@
       "_id": "page.court-tribunal--text.auto_name__16",
       "_type": "text",
       "label": "Court or tribunal name",
-      "name": "auto_name__16"
+      "name": "court_tribunal_name"
     },
     {
       "_id": "page.court-tribunal--text.auto_name__17",
       "_type": "text",
       "label": "Case number",
-      "name": "auto_name__17",
+      "name": "court_tribunal_case_number",
       "validation": {
         "required": false
       }

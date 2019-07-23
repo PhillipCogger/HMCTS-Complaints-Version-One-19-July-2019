@@ -14,7 +14,7 @@
           "_id": "page.contact-preferences--radios.auto_name__24--radio.auto_value__1",
           "_type": "radio",
           "label": "Email",
-          "value": "auto_value__1"
+          "value": "contact_preferences_email"
         },
         {
           "$component": true,
@@ -23,11 +23,11 @@
           "_id": "page.contact-preferences--radios.auto_name__24--radio.auto_value__1--2",
           "_type": "radio",
           "label": "Phone",
-          "value": "auto_value__1"
+          "value": "contact_preferences_phone"
         }
       ],
       "legend": "How would you prefer to be contacted?",
-      "name": "auto_name__24"
+      "name": "contact_preferences"
     }
   ],
   "url": "contact-preferences"

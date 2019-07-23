@@ -6,13 +6,13 @@
       "_id": "page.complainant-address--text.auto_name__3",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__3",
+      "name": "complainant_address_building",
       "widthClassInput": "30"
     },
     {
       "_id": "page.complainant-address--text.auto_name__4",
       "_type": "text",
-      "name": "auto_name__4",
+      "name": "complainant_address_street",
       "validation": {
         "required": false
       },
@@ -22,14 +22,14 @@
       "_id": "page.complainant-address--text.auto_name__5",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__5",
+      "name": "complainant_address_town_city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.complainant-address--text.auto_name__6",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__6",
+      "name": "complainant_address_county",
       "validation": {
         "required": false
       },
@@ -39,15 +39,15 @@
       "_id": "page.complainant-address--text.auto_name__7",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__7",
+      "name": "complainant_address_postcode",
       "widthClassInput": "10"
     }
   ],
   "heading": "What's your home address?",
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "person_making_complaint",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "person_making_complaint_myself"
   },
   "url": "complainant-address"
 }

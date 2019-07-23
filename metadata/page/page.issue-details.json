@@ -7,19 +7,19 @@
       "_type": "date",
       "hint": "For example, 27 3 2018",
       "label": "### When the issue happened",
-      "name": "auto_name__18"
+      "name": "complaint_issue_date"
     },
     {
       "_id": "page.issue-details--textarea.auto_name__19",
       "_type": "textarea",
       "label": "### Type of issue",
-      "name": "auto_name__19"
+      "name": "complaint_issue_type"
     },
     {
       "_id": "page.issue-details--textarea.auto_name__20",
       "_type": "textarea",
       "label": "### How can we resolve it?",
-      "name": "auto_name__20"
+      "name": "complaint_issue_solution_required"
     }
   ],
   "heading": "Your complaint",
