@@ -19,7 +19,7 @@
     },
     "identifier": "contact_preferences",
     "operator": "is",
-    "value": "contact_preferences_email"
+    "value": "contact_preferences_phone"
   },
   "url": "phone"
 }
