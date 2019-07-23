@@ -12,11 +12,6 @@
     }
   ],
   "show": {
-    "0": {
-      "identifier": "contact_preferences",
-      "operator": "is",
-      "value": "contact_preferences_email"
-    },
     "identifier": "contact_preferences",
     "operator": "is",
     "value": "contact_preferences_phone"
